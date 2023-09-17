@@ -1,4 +1,4 @@
-# :tea: Abdeslam Ezzaghi :ma: 
+# 🇲🇦 Abdeslam Ezzaghi 🍵
 
 **`Web developer (Angular/Spring Boot/etc...)`**
 
