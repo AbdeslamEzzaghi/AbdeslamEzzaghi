@@ -20,3 +20,4 @@ I'm a developer who is trying to rebuild his career.
 <br />
 
 #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdeslamEzzaghi&layout=compact&theme=gruvbox&hide_border=true)
